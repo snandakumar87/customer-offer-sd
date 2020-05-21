@@ -26,6 +26,8 @@ repositories {
     }
 }
 
+mainClassName = 'org.bian.Application'
+
 dependencies {
 	compile('org.bian:bian-starter:2.0')
 	compile('org.springframework.boot:spring-boot-starter-web')
