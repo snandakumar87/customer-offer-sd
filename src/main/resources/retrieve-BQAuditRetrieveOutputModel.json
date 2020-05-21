@@ -1,0 +1,36 @@
+{
+  "auditInstanceRecord" : {
+    "guidelineComplianceCheckSubmission" : "guidelineComplianceCheckSubmission",
+    "guidelineComplianceAdjustmentRequirement" : "guidelineComplianceAdjustmentRequirement",
+    "guidelineComplianceCheckAssessment" : "guidelineComplianceCheckAssessment",
+    "guidelineComplianceCheckType" : "guidelineComplianceCheckType",
+    "guidelineComplianceCheckRequirement" : "guidelineComplianceCheckRequirement"
+  },
+  "auditRetrieveActionTaskRecord" : {},
+  "auditInstanceReport" : {
+    "auditInstanceReportType" : "auditInstanceReportType",
+    "auditInstanceReport" : {},
+    "auditInstanceReportRecord" : {},
+    "auditInstanceReportParameters" : "auditInstanceReportParameters"
+  },
+  "auditInstanceAnalysis" : {
+    "auditInstanceAnalysisParameters" : "auditInstanceAnalysisParameters",
+    "auditInstanceAnalysisReportType" : "auditInstanceAnalysisReportType",
+    "auditInstanceAnalysisRecord" : {},
+    "auditInstanceAnalysisReport" : {}
+  },
+  "auditRetrieveActionTaskReference" : "ARATR750423",
+  "auditRetrieveActionResponse" : "auditRetrieveActionResponse",
+  "customerOfferProcedureInstanceRecord" : {
+    "customerReference" : "753821",
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "partyReference" : "793767",
+    "productServiceType" : "productServiceType",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "725215",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  }
+}

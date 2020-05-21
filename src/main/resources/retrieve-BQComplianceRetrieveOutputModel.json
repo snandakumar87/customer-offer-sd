@@ -1,0 +1,36 @@
+{
+  "complianceInstanceAnalysis" : {
+    "complianceInstanceAnalysisRecord" : {},
+    "complianceInstanceAnalysisReportType" : "complianceInstanceAnalysisReportType",
+    "complianceInstanceAnalysisReport" : {},
+    "complianceInstanceAnalysisParameters" : "complianceInstanceAnalysisParameters"
+  },
+  "complianceRetrieveActionResponse" : "complianceRetrieveActionResponse",
+  "complianceInstanceRecord" : {
+    "regulatoryComplianceCheckRequirement" : "regulatoryComplianceCheckRequirement",
+    "regulatoryComplianceAdjustmentRequirement" : "regulatoryComplianceAdjustmentRequirement",
+    "regulatoryComplianceCheckType" : "regulatoryComplianceCheckType",
+    "regulatoryComplianceCheckAssessment" : "regulatoryComplianceCheckAssessment",
+    "regulatoryComplianceCheckSubmission" : "regulatoryComplianceCheckSubmission"
+  },
+  "complianceRetrieveActionTaskRecord" : {},
+  "complianceInstanceReport" : {
+    "complianceInstanceReportParameters" : "complianceInstanceReportParameters",
+    "complianceInstanceReportType" : "complianceInstanceReportType",
+    "complianceInstanceReport" : {},
+    "complianceInstanceReportRecord" : {}
+  },
+  "complianceRetrieveActionTaskReference" : "CRATR701585",
+  "customerOfferProcedureInstanceRecord" : {
+    "customerReference" : "768555",
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "partyReference" : "716204",
+    "productServiceType" : "productServiceType",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "756506",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  }
+}

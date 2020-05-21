@@ -1,0 +1,19 @@
+{
+  "bookingInstanceRecord" : {
+    "assetLiabilityType" : "assetLiabilityType",
+    "amount" : "USD 250",
+    "businessUnitReference" : "757280"
+  },
+  "bookingUpdateActionTaskReference" : "BUATR753898",
+  "bookingUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "customerOfferProcedureInstanceRecord" : {
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "784510",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "underwritingUpdateActionTaskReference" : "UUATR762410",
+  "updateResponseRecord" : {},
+  "underwritingInstanceRecord" : {
+    "customerDebtStatement" : "customerDebtStatement",
+    "underwritingAssessmentReference" : "702751",
+    "customerIncomeStatement" : "customerIncomeStatement",
+    "customerAssetStatement" : "customerAssetStatement"
+  },
+  "customerOfferProcedureInstanceRecord" : {
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "701909",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  },
+  "underwritingUpdateActionTaskRecord" : {}
+}

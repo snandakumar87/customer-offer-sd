@@ -1,0 +1,36 @@
+{
+  "correspondenceandDocumentsRetrieveActionResponse" : "correspondenceandDocumentsRetrieveActionResponse",
+  "correspondenceandDocumentsRetrieveActionTaskRecord" : {},
+  "correspondenceandDocumentsInstanceReport" : {
+    "correspondenceandDocumentsInstanceReportType" : "correspondenceandDocumentsInstanceReportType",
+    "correspondenceandDocumentsInstanceReportRecord" : {},
+    "correspondenceandDocumentsInstanceReport" : {},
+    "correspondenceandDocumentsInstanceReportParameters" : "correspondenceandDocumentsInstanceReportParameters"
+  },
+  "correspondenceandDocumentsInstanceAnalysis" : {
+    "correspondenceandDocumentsInstanceAnalysisReportType" : "correspondenceandDocumentsInstanceAnalysisReportType",
+    "correspondenceandDocumentsInstanceAnalysisReport" : {},
+    "correspondenceandDocumentsInstanceAnalysisParameters" : "correspondenceandDocumentsInstanceAnalysisParameters",
+    "correspondenceandDocumentsInstanceAnalysisRecord" : {}
+  },
+  "correspondenceandDocumentsInstanceRecord" : {
+    "correspondenceInstanceReference" : "736630",
+    "customerOfferRequiredDocuments" : "customerOfferRequiredDocuments",
+    "correspondenceContent" : "correspondenceContent",
+    "documentContent" : "documentContent",
+    "documentDirectoryEntryInstanceReference" : "700162"
+  },
+  "correspondenceandDocumentsRetrieveActionTaskReference" : "CADRATR745080",
+  "customerOfferProcedureInstanceRecord" : {
+    "customerReference" : "782616",
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "partyReference" : "759645",
+    "productServiceType" : "productServiceType",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "785837",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  }
+}

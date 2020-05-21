@@ -1,0 +1,18 @@
+{
+  "agreementUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "customerOfferProcedureInstanceRecord" : {
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "768218",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  },
+  "agreementInstanceRecord" : {
+    "customerAgreementInstanceReference" : "732372",
+    "salesProductAgreementInstanceReference" : "767742"
+  },
+  "agreementUpdateActionTaskReference" : "AUATR724260"
+}

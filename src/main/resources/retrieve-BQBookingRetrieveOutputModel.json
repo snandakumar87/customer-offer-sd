@@ -1,0 +1,34 @@
+{
+  "bookingInstanceRecord" : {
+    "assetLiabilityType" : "assetLiabilityType",
+    "amount" : "USD 250",
+    "businessUnitReference" : "779818"
+  },
+  "bookingRetrieveActionTaskRecord" : {},
+  "bookingInstanceAnalysis" : {
+    "bookingInstanceAnalysisReport" : {},
+    "bookingInstanceAnalysisReportType" : "bookingInstanceAnalysisReportType",
+    "bookingInstanceAnalysisParameters" : "bookingInstanceAnalysisParameters",
+    "bookingInstanceAnalysisRecord" : {}
+  },
+  "bookingRetrieveActionTaskReference" : "BRATR723427",
+  "bookingInstanceReport" : {
+    "bookingInstanceReport" : {},
+    "bookingInstanceReportRecord" : {},
+    "bookingInstanceReportParameters" : "bookingInstanceReportParameters",
+    "bookingInstanceReportType" : "bookingInstanceReportType"
+  },
+  "bookingRetrieveActionResponse" : "bookingRetrieveActionResponse",
+  "customerOfferProcedureInstanceRecord" : {
+    "customerReference" : "751473",
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "partyReference" : "773008",
+    "productServiceType" : "productServiceType",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "732274",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  }
+}

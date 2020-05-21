@@ -1,0 +1,21 @@
+{
+  "auditInstanceRecord" : {
+    "guidelineComplianceCheckSubmission" : "guidelineComplianceCheckSubmission",
+    "guidelineComplianceAdjustmentRequirement" : "guidelineComplianceAdjustmentRequirement",
+    "guidelineComplianceCheckAssessment" : "guidelineComplianceCheckAssessment",
+    "guidelineComplianceCheckType" : "guidelineComplianceCheckType",
+    "guidelineComplianceCheckRequirement" : "guidelineComplianceCheckRequirement"
+  },
+  "updateResponseRecord" : {},
+  "auditUpdateActionTaskReference" : "AUATR794764",
+  "customerOfferProcedureInstanceRecord" : {
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "786768",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  },
+  "auditUpdateActionTaskRecord" : {}
+}

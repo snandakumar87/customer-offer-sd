@@ -1,0 +1,17 @@
+{
+  "customerOfferProcedureUpdateActionTaskReference" : "COPUATR762977",
+  "updateResponseRecord" : {},
+  "customerOfferProcedureUpdateActionTaskRecord" : {},
+  "customerOfferProcedureInstanceRecord" : {
+    "customerReference" : "753477",
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "partyReference" : "784212",
+    "productServiceType" : "productServiceType",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "726864",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  }
+}

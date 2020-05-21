@@ -1,0 +1,20 @@
+{
+  "disclosuresUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "disclosuresInstanceRecord" : {
+    "disclosureType" : "disclosureType",
+    "customerAcceptanceIndicator" : "customerAcceptanceIndicator",
+    "disclosureTextDescription" : "disclosureTextDescription",
+    "documentReference" : "787732"
+  },
+  "disclosuresUpdateActionTaskReference" : "DUATR721912",
+  "customerOfferProcedureInstanceRecord" : {
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "750376",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  }
+}

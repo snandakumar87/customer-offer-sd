@@ -1,0 +1,34 @@
+{
+  "creditRetrieveActionResponse" : "creditRetrieveActionResponse",
+  "creditInstanceRecord" : {
+    "creditAuthorizationDecisionReference" : "753377",
+    "customerCreditRating" : "customerCreditRating",
+    "creditAuthorizationDecision" : "creditAuthorizationDecision"
+  },
+  "creditRetrieveActionTaskRecord" : {},
+  "creditRetrieveActionTaskReference" : "CRATR777458",
+  "creditInstanceAnalysis" : {
+    "creditInstanceAnalysisReport" : {},
+    "creditInstanceAnalysisRecord" : {},
+    "creditInstanceAnalysisReportType" : "creditInstanceAnalysisReportType",
+    "creditInstanceAnalysisParameters" : "creditInstanceAnalysisParameters"
+  },
+  "creditInstanceReport" : {
+    "creditInstanceReportRecord" : {},
+    "creditInstanceReportParameters" : "creditInstanceReportParameters",
+    "creditInstanceReportType" : "creditInstanceReportType",
+    "creditInstanceReport" : {}
+  },
+  "customerOfferProcedureInstanceRecord" : {
+    "customerReference" : "735889",
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "partyReference" : "713711",
+    "productServiceType" : "productServiceType",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "793043",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  }
+}

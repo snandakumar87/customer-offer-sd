@@ -1,0 +1,13 @@
+{
+  "executeRecordReference" : "ERR758817",
+  "customerOfferProcedureExecuteActionTaskReference" : "COPEATR712059",
+  "executeResponseRecord" : {},
+  "customerOfferProcedureExecuteActionTaskRecord" : {},
+  "customerOfferProcedureInstanceRecord" : {
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "customerOfferProcessingTask" : {
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts"
+    }
+  }
+}

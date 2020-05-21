@@ -1,0 +1,17 @@
+{
+  "productInitializationUpdateActionTaskReference" : "PIUATR766983",
+  "productInitializationUpdateActionTaskRecord" : {},
+  "productInitializationInstanceRecord" : {
+    "productInstanceReference" : "705158"
+  },
+  "updateResponseRecord" : {},
+  "customerOfferProcedureInstanceRecord" : {
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "785117",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  }
+}

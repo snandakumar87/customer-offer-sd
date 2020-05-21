@@ -1,0 +1,13 @@
+{
+  "requestRecordReference" : "RRR736011",
+  "customerOfferProcedureRequestActionTaskReference" : "COPRATR734822",
+  "customerOfferProcedureInstanceRecord" : {
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "customerOfferProcessingTask" : {
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts"
+    }
+  },
+  "customerOfferProcedureRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}
