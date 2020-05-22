@@ -7,7 +7,7 @@ buildscript {
 	}
 	dependencies {
 		classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
-		classpath "gradle.plugin.com.spengreb.gradle:gradle-openshift-plugin:0.2"
+		classpath("gradle.plugin.com.spengreb.gradle:gradle-openshift-plugin:0.2")
 	}
 }
 
