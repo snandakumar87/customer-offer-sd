@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/customer-offer.iml" filepath="$PROJECT_DIR$/.idea/modules/customer-offer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-domain-customer-offer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-domain-customer-offer_main.iml" group="service-domain-customer-offer" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-domain-customer-offer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-domain-customer-offer_test.iml" group="service-domain-customer-offer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customer-offer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/customer-offer_main.iml" group="customer-offer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customer-offer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/customer-offer_test.iml" group="customer-offer" />
     </modules>
   </component>
 </project>
