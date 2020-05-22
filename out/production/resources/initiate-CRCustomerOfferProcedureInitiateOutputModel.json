@@ -1,0 +1,59 @@
+{
+  "bookingInstanceRecord" : {
+    "assetLiabilityType" : "assetLiabilityType",
+    "amount" : "USD 250",
+    "businessUnitReference" : "733949"
+  },
+  "auditInstanceRecord" : {
+    "guidelineComplianceCheckType" : "guidelineComplianceCheckType",
+    "guidelineComplianceCheckRequirement" : "guidelineComplianceCheckRequirement"
+  },
+  "complianceInstanceRecord" : {
+    "regulatoryComplianceCheckRequirement" : "regulatoryComplianceCheckRequirement",
+    "regulatoryComplianceCheckType" : "regulatoryComplianceCheckType"
+  },
+  "underwritingInstanceRecord" : {
+    "customerDebtStatement" : "customerDebtStatement",
+    "customerIncomeStatement" : "customerIncomeStatement",
+    "customerAssetStatement" : "customerAssetStatement"
+  },
+  "customerOfferProcedureInitiateActionRecord" : {},
+  "productInstanceRecord" : {
+    "productOption" : "productOption",
+    "productOptionDescription" : "productOptionDescription",
+    "productPricing" : "productPricing",
+    "negotiationGuidelinesRules" : "negotiationGuidelinesRules"
+  },
+  "customerOfferProcedureInstanceStatus" : "customerOfferProcedureInstanceStatus",
+  "customerOfferProcedureInitiateActionReference" : "COPIAR731552",
+  "creditInstanceRecord" : {
+    "customerCreditRating" : "customerCreditRating"
+  },
+  "productInitializationInstanceRecord" : {
+    "productInstanceReference" : "736195"
+  },
+  "disclosuresInstanceRecord" : {
+    "disclosureType" : "disclosureType",
+    "disclosureTextDescription" : "disclosureTextDescription"
+  },
+  "collateralInstanceRecord" : {
+    "collateralEarmarkReference" : "717235",
+    "collateralAssetAllocationInstanceRecord" : {},
+    "collateralAssetReference" : "744472",
+    "collateralRequirement" : "collateralRequirement"
+  },
+  "correspondenceandDocumentsInstanceRecord" : {
+    "customerOfferRequiredDocuments" : "customerOfferRequiredDocuments"
+  },
+  "customerOfferProcedureInstanceReference" : "COPIR769333",
+  "customerOfferProcedureInstanceRecord" : {
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "customerOfferProcessingTask" : {
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts"
+    }
+  },
+  "agreementInstanceRecord" : {
+    "customerAgreementInstanceReference" : "755683"
+  }
+}

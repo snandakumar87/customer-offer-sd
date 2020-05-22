@@ -1,0 +1,21 @@
+{
+  "updateResponseRecord" : {},
+  "complianceInstanceRecord" : {
+    "regulatoryComplianceCheckRequirement" : "regulatoryComplianceCheckRequirement",
+    "regulatoryComplianceAdjustmentRequirement" : "regulatoryComplianceAdjustmentRequirement",
+    "regulatoryComplianceCheckType" : "regulatoryComplianceCheckType",
+    "regulatoryComplianceCheckAssessment" : "regulatoryComplianceCheckAssessment",
+    "regulatoryComplianceCheckSubmission" : "regulatoryComplianceCheckSubmission"
+  },
+  "customerOfferProcedureInstanceRecord" : {
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "787582",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  },
+  "complianceUpdateActionTaskRecord" : {},
+  "complianceUpdateActionTaskReference" : "CUATR739424"
+}

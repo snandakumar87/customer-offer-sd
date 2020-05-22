@@ -1,0 +1,21 @@
+{
+  "correspondenceandDocumentsUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "correspondenceandDocumentsInstanceRecord" : {
+    "correspondenceInstanceReference" : "764564",
+    "customerOfferRequiredDocuments" : "customerOfferRequiredDocuments",
+    "correspondenceContent" : "correspondenceContent",
+    "documentContent" : "documentContent",
+    "documentDirectoryEntryInstanceReference" : "755966"
+  },
+  "customerOfferProcedureInstanceRecord" : {
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "725429",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  },
+  "correspondenceandDocumentsUpdateActionTaskReference" : "CADUATR791014"
+}

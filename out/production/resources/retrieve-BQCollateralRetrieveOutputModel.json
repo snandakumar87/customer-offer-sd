@@ -1,0 +1,35 @@
+{
+  "collateralRetrieveActionResponse" : "collateralRetrieveActionResponse",
+  "collateralInstanceAnalysis" : {
+    "collateralInstanceAnalysisReportType" : "collateralInstanceAnalysisReportType",
+    "collateralInstanceAnalysisRecord" : {},
+    "collateralInstanceAnalysisParameters" : "collateralInstanceAnalysisParameters",
+    "collateralInstanceAnalysisReport" : {}
+  },
+  "collateralRetrieveActionTaskReference" : "CRATR777265",
+  "collateralInstanceRecord" : {
+    "collateralEarmarkReference" : "719765",
+    "collateralAssetAllocationInstanceRecord" : {},
+    "collateralAssetReference" : "717572",
+    "collateralRequirement" : "collateralRequirement"
+  },
+  "customerOfferProcedureInstanceRecord" : {
+    "customerReference" : "771026",
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "partyReference" : "796305",
+    "productServiceType" : "productServiceType",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "783804",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  },
+  "collateralInstanceReport" : {
+    "collateralInstanceReportRecord" : {},
+    "collateralInstanceReportType" : "collateralInstanceReportType",
+    "collateralInstanceReportParameters" : "collateralInstanceReportParameters",
+    "collateralInstanceReport" : {}
+  },
+  "collateralRetrieveActionTaskRecord" : {}
+}

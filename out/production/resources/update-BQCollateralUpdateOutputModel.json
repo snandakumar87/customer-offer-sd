@@ -1,0 +1,20 @@
+{
+  "collateralUpdateActionTaskReference" : "CUATR766676",
+  "updateResponseRecord" : {},
+  "collateralInstanceRecord" : {
+    "collateralEarmarkReference" : "767541",
+    "collateralAssetAllocationInstanceRecord" : {},
+    "collateralAssetReference" : "796658",
+    "collateralRequirement" : "collateralRequirement"
+  },
+  "collateralUpdateActionTaskRecord" : {},
+  "customerOfferProcedureInstanceRecord" : {
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "737819",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  }
+}

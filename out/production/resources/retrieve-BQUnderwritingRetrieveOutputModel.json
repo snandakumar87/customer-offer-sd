@@ -1,0 +1,35 @@
+{
+  "underwritingRetrieveActionTaskReference" : "URATR735691",
+  "underwritingRetrieveActionResponse" : "underwritingRetrieveActionResponse",
+  "underwritingInstanceReport" : {
+    "underwritingInstanceReportParameters" : "underwritingInstanceReportParameters",
+    "underwritingInstanceReportType" : "underwritingInstanceReportType",
+    "underwritingInstanceReportRecord" : {},
+    "underwritingInstanceReport" : {}
+  },
+  "underwritingInstanceRecord" : {
+    "customerDebtStatement" : "customerDebtStatement",
+    "underwritingAssessmentReference" : "743102",
+    "customerIncomeStatement" : "customerIncomeStatement",
+    "customerAssetStatement" : "customerAssetStatement"
+  },
+  "underwritingInstanceAnalysis" : {
+    "underwritingInstanceAnalysisRecord" : {},
+    "underwritingInstanceAnalysisReportType" : "underwritingInstanceAnalysisReportType",
+    "underwritingInstanceAnalysisParameters" : "underwritingInstanceAnalysisParameters",
+    "underwritingInstanceAnalysisReport" : {}
+  },
+  "customerOfferProcedureInstanceRecord" : {
+    "customerReference" : "798524",
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "partyReference" : "782588",
+    "productServiceType" : "productServiceType",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "733171",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  },
+  "underwritingRetrieveActionTaskRecord" : {}
+}

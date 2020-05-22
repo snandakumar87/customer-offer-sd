@@ -1,0 +1,19 @@
+{
+  "creditUpdateActionTaskReference" : "CUATR722573",
+  "creditInstanceRecord" : {
+    "creditAuthorizationDecisionReference" : "753252",
+    "customerCreditRating" : "customerCreditRating",
+    "creditAuthorizationDecision" : "creditAuthorizationDecision"
+  },
+  "updateResponseRecord" : {},
+  "customerOfferProcedureInstanceRecord" : {
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "717579",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  },
+  "creditUpdateActionTaskRecord" : {}
+}

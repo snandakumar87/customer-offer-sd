@@ -1,0 +1,35 @@
+{
+  "disclosuresInstanceReport" : {
+    "disclosuresInstanceReportType" : "disclosuresInstanceReportType",
+    "disclosuresInstanceReport" : {},
+    "disclosuresInstanceReportRecord" : {},
+    "disclosuresInstanceReportParameters" : "disclosuresInstanceReportParameters"
+  },
+  "disclosuresInstanceAnalysis" : {
+    "disclosuresInstanceAnalysisParameters" : "disclosuresInstanceAnalysisParameters",
+    "disclosuresInstanceAnalysisReport" : {},
+    "disclosuresInstanceAnalysisReportType" : "disclosuresInstanceAnalysisReportType",
+    "disclosuresInstanceAnalysisRecord" : {}
+  },
+  "disclosuresRetrieveActionTaskReference" : "DRATR735013",
+  "disclosuresInstanceRecord" : {
+    "disclosureType" : "disclosureType",
+    "customerAcceptanceIndicator" : "customerAcceptanceIndicator",
+    "disclosureTextDescription" : "disclosureTextDescription",
+    "documentReference" : "718187"
+  },
+  "customerOfferProcedureInstanceRecord" : {
+    "customerReference" : "758232",
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "partyReference" : "731415",
+    "productServiceType" : "productServiceType",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "724284",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  },
+  "disclosuresRetrieveActionResponse" : "disclosuresRetrieveActionResponse",
+  "disclosuresRetrieveActionTaskRecord" : {}
+}

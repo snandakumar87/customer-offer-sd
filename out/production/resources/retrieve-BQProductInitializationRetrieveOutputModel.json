@@ -1,0 +1,32 @@
+{
+  "productInitializationRetrieveActionResponse" : "productInitializationRetrieveActionResponse",
+  "productInitializationRetrieveActionTaskReference" : "PIRATR716347",
+  "productInitializationInstanceRecord" : {
+    "productInstanceReference" : "792591"
+  },
+  "productInitializationInstanceAnalysis" : {
+    "productInitializationInstanceAnalysisReport" : {},
+    "productInitializationInstanceAnalysisReportType" : "productInitializationInstanceAnalysisReportType",
+    "productInitializationInstanceAnalysisRecord" : {},
+    "productInitializationInstanceAnalysisParameters" : "productInitializationInstanceAnalysisParameters"
+  },
+  "productInitializationRetrieveActionTaskRecord" : {},
+  "productInitializationInstanceReport" : {
+    "productInitializationInstanceReportRecord" : {},
+    "productInitializationInstanceReportType" : "productInitializationInstanceReportType",
+    "productInitializationInstanceReport" : {},
+    "productInitializationInstanceReportParameters" : "productInitializationInstanceReportParameters"
+  },
+  "customerOfferProcedureInstanceRecord" : {
+    "customerReference" : "709459",
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "partyReference" : "728005",
+    "productServiceType" : "productServiceType",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "732156",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  }
+}

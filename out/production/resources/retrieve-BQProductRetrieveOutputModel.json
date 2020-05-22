@@ -1,0 +1,38 @@
+{
+  "productRetrieveActionTaskRecord" : {},
+  "productInstanceAnalysis" : {
+    "productInstanceAnalysisReport" : {},
+    "productInstanceAnalysisReportType" : "productInstanceAnalysisReportType",
+    "productInstanceAnalysisRecord" : {},
+    "productInstanceAnalysisParameters" : "productInstanceAnalysisParameters"
+  },
+  "productInstanceReport" : {
+    "productInstanceReportType" : "productInstanceReportType",
+    "productInstanceReportParameters" : "productInstanceReportParameters",
+    "productInstanceReportRecord" : {},
+    "productInstanceReport" : {}
+  },
+  "productRetrieveActionResponse" : "productRetrieveActionResponse",
+  "customerOfferProcedureInstanceRecord" : {
+    "customerReference" : "731146",
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "partyReference" : "710811",
+    "productServiceType" : "productServiceType",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "785480",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  },
+  "productInstanceRecord" : {
+    "productOption" : "productOption",
+    "productOptionDescription" : "productOptionDescription",
+    "productOptionSelection" : "productOptionSelection",
+    "pricingAdjustments" : "pricingAdjustments",
+    "agreedPricing" : "agreedPricing",
+    "productPricing" : "productPricing",
+    "negotiationGuidelinesRules" : "negotiationGuidelinesRules"
+  },
+  "productRetrieveActionTaskReference" : "COPRATR747428"
+}

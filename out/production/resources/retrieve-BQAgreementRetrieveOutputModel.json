@@ -1,0 +1,33 @@
+{
+  "agreementRetrieveActionTaskReference" : "ARATR711293",
+  "agreementInstanceAnalysis" : {
+    "agreementInstanceAnalysisParameters" : "agreementInstanceAnalysisParameters",
+    "agreementInstanceAnalysisReport" : {},
+    "agreementInstanceAnalysisReportType" : "agreementInstanceAnalysisReportType",
+    "agreementInstanceAnalysisRecord" : {}
+  },
+  "agreementInstanceReport" : {
+    "agreementInstanceReportType" : "agreementInstanceReportType",
+    "agreementInstanceReportParameters" : "agreementInstanceReportParameters",
+    "agreementInstanceReport" : {},
+    "agreementInstanceReportRecord" : {}
+  },
+  "agreementRetrieveActionTaskRecord" : {},
+  "customerOfferProcedureInstanceRecord" : {
+    "customerReference" : "725269",
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "partyReference" : "735177",
+    "productServiceType" : "productServiceType",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "718943",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  },
+  "agreementInstanceRecord" : {
+    "customerAgreementInstanceReference" : "749826",
+    "salesProductAgreementInstanceReference" : "743608"
+  },
+  "agreementRetrieveActionResponse" : "agreementRetrieveActionResponse"
+}

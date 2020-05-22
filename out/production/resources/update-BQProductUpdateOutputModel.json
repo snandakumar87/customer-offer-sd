@@ -1,0 +1,23 @@
+{
+  "productUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "productUpdateActionTaskReference" : "COPUATR740346",
+  "customerOfferProcedureInstanceRecord" : {
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "793518",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  },
+  "productInstanceRecord" : {
+    "productOption" : "productOption",
+    "productOptionDescription" : "productOptionDescription",
+    "productOptionSelection" : "productOptionSelection",
+    "pricingAdjustments" : "pricingAdjustments",
+    "agreedPricing" : "agreedPricing",
+    "productPricing" : "productPricing",
+    "negotiationGuidelinesRules" : "negotiationGuidelinesRules"
+  }
+}

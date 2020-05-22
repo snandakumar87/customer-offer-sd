@@ -1,0 +1,27 @@
+{
+  "customerOfferProcedureInstanceReportRecord" : {
+    "customerOfferProcedureInstanceReport" : {},
+    "customerOfferProcedureInstanceReportType" : "customerOfferProcedureInstanceReportType",
+    "customerOfferProcedureInstanceReportData" : "customerOfferProcedureInstanceReportData"
+  },
+  "customerOfferProcedureInstanceAnalysis" : {
+    "customerOfferProcedureInstanceAnalysisData" : "customerOfferProcedureInstanceAnalysisData",
+    "customerOfferProcedureInstanceAnalysisReport" : {},
+    "customerOfferProcedureInstanceAnalysisReportType" : "customerOfferProcedureInstanceAnalysisReportType"
+  },
+  "customerOfferProcedureRetrieveActionTaskReference" : "COPRATR785437",
+  "customerOfferProcedureRetrieveActionResponse" : "customerOfferProcedureRetrieveActionResponse",
+  "customerOfferProcedureRetrieveActionTaskRecord" : {},
+  "customerOfferProcedureInstanceRecord" : {
+    "customerReference" : "774480",
+    "customerOfferProcessingSchedule" : "customerOfferProcessingSchedule",
+    "partyReference" : "704310",
+    "productServiceType" : "productServiceType",
+    "customerOfferProcessingTask" : {
+      "employeeBusinessUnitReference" : "705910",
+      "customerOfferProcessingTaskResult" : "customerOfferProcessingTaskResult",
+      "customerOfferProcessingTaskWorkProducts" : "customerOfferProcessingTaskWorkProducts",
+      "customerOfferProcessingTaskType" : "customerOfferProcessingTaskType"
+    }
+  }
+}
