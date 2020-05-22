@@ -1,22 +1,22 @@
 apiVersion: apps/v1beta2
 kind: Deployment
 metadata:
-  name: {{ template "service-domain-customer-offer.fullname" . }}
+  name: {{ template "customer-offer.fullname" . }}
   labels:
-    app: {{ template "service-domain-customer-offer.name" . }}
-    chart: {{ template "service-domain-customer-offer.chart" . }}
+    app: {{ template "customer-offer.name" . }}
+    chart: {{ template "customer-offer.chart" . }}
     release: {{ .Release.Name }}
     heritage: {{ .Release.Service }}
 spec:
   replicas: {{ .Values.replicaCount }}
   selector:
     matchLabels:
-      app: {{ template "service-domain-customer-offer.name" . }}
+      app: {{ template "customer-offer.name" . }}
       release: {{ .Release.Name }}
   template:
     metadata:
       labels:
-        app: {{ template "service-domain-customer-offer.name" . }}
+        app: {{ template "customer-offer.name" . }}
         release: {{ .Release.Name }}
     spec:
       containers:
